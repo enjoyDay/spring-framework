@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # <img src="src/docs/asciidoc/images/spring-framework.png" width="80" height="80"> Spring Framework
 
 This is the home of the Spring Framework, the foundation for all
@@ -46,3 +47,7 @@ and releases are announced via our [news feed](https://spring.io/blog/category/n
 
 The Spring Framework is released under version 2.0 of the
 [Apache License](https://www.apache.org/licenses/LICENSE-2.0).
+=======
+# spring-framework
+自己构建的spring5.0.x源码，同时附带自己的注解
+>>>>>>> b1de1ec7779c6c508ce4584e5015bc3acc617c99
